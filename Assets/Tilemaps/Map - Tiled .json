@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"..\/Downloads\/Map_2 - Copy.png",
+ "imageheight":225,
+ "imagewidth":400,
+ "margin":0,
+ "name":"Map",
+ "spacing":0,
+ "tilecount":84,
+ "tiledversion":"1.2.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.2
+}
